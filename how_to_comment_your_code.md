@@ -1,6 +1,6 @@
 # Writing Comments
 
-REFERENCE:[Documenting Python Code: A Complete Guide](https://realpython.com/lessons/documenting-vs-commenting-code/)
+REFERENCE: [Documenting Python Code: A Complete Guide](https://realpython.com/lessons/documenting-vs-commenting-code/)
 
 ## Why Comment?
 
@@ -50,4 +50,4 @@ There are additional 4 major rules of thumb to follow (as suggested by *Jeff Atw
     Assume the reader (usually yourself) already has a good base understanding of python (or whichever language)
 
 4. ***Design your code to be as self explanatory as possible. Design your code to comment itself.***
-    This is where type hinting comes in handy. You can avoid a huge chunk of comments if this is done well
+    This is where type hinting comes in handy. You can avoid a huge chunk of comments if this is done well.
