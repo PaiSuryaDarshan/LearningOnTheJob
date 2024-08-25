@@ -3,7 +3,7 @@ REFERENCE: [Documenting Python Code: A Complete Guide](https://realpython.com/le
 
 ## Why Comment?
 
-    Code tells you "How?" Comments tell you "Why?" 
+    Code tells you "How?", Comments tell you "Why?" 
                  ~ Jeff Atwood (a.k.a.Coding Horror)
 
 1. It describes code for fellow developers
@@ -13,19 +13,16 @@ REFERENCE: [Documenting Python Code: A Complete Guide](https://realpython.com/le
 ## Types/Variations of Comments
 
 1.  ***Comments for Planning and Reviewing code*** (*PNR*)
-    Theses comments are usually deleted after the plan is complete.
-    e.g. 
+    Theses comments are usually deleted after the plan is complete, e.g. 
     #First Step
 
 2.  ***Code description comments***
-    It explains the intent of a specific section of code.
-    e.g. 
+    It explains the intent of a specific section of code, e.g. 
     #Accepts request if condition XYZ is met, if unsuccessful,
     #returns exception "ABC"
 
 3.  ***Algorithmic description comments***
-    It explains the reason Technique/path 'X' was chosen over 'Y'.
-    e.g. 
+    It explains the reason Technique/path 'X' was chosen over 'Y', e.g. 
     #Using 'quick sort' for performance gains
 
 4.  ***Tagging comments***
