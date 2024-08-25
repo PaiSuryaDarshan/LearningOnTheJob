@@ -1,5 +1,4 @@
 # Writing Comments
-
 REFERENCE: [Documenting Python Code: A Complete Guide](https://realpython.com/lessons/documenting-vs-commenting-code/)
 
 ## Why Comment?
