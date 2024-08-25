@@ -140,7 +140,7 @@ TA-DAAAA! Self-commenting code :D.
 ### 9. Skip one line between 2 functions, but skip TWO after a class
     
     class MyClass:
-        aasdf
+        aasd
         sadf
         sadf
         sdaf
@@ -214,7 +214,7 @@ CORRECT:
 
 This key to making code (especially long ones) look more attractive.
 
-This takes a while to master but definetly DO IMPLEMENT THIS!
+This takes a while to master but definitely DO IMPLEMENT THIS!
 
 ### 14. Be CONSISTENT with your choices
 It's fine to choose camel or pascal case BUT BE CONSISTENT with it through out your code.
