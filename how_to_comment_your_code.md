@@ -29,7 +29,7 @@ REFERENCE: [Documenting Python Code: A Complete Guide](https://realpython.com/le
     #Using 'quick sort' for performance gains
 
 4.  ***Tagging comments***
-    It marks bugs / broken code, for review later.
+    It marks bugs / broken code, for review later. Theses comments must be deleted after the issue is resolved.
     Common examples include,
     #BUG: Cause crash when run with XYZ 
     #FIXME: Not very efficient code. Revisit and improve
